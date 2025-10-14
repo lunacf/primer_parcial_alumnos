@@ -1,0 +1,10 @@
+INFORME FINAL DEL CURSO
+-------------------------
+Cantidad total de estudiantes: 3
+Promedio general: 5.00
+Aprobados: 1
+Desaprobados: 2
+Mejor nota: 8.0 (Alumno: leticia)
+Peor nota: 3.0 (Alumno: pedro)
+-------------------------
+Fecha de generación: 2025-10-14 20:25:18
